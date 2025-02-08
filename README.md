@@ -34,12 +34,12 @@ ESP32_WebSocket_Display/
 
 ## **Setup & Installation**  
 
-1. **Clone the repository:**  
-   ```sh
+1. **Clone the repository:**
+    ```sh
    git clone https://github.com/maxkoste/ESP32_display_project.git
    cd ESP32_display_project
 
-2. **Install dependencies using PlatformIO:**
+3. **Install dependencies using PlatformIO:**
 
-```sh
-  pio pkg install
+   ```sh
+     pio pkg install
