@@ -16,9 +16,6 @@ This project connects an **ESP32 microcontroller** to a **WebSocket server**, en
 ESP32_WebSocket_Display/
 │── src/
 │   ├── main.cpp          # ESP32 firmware (main source code)
-│── data/
-│   ├── password.txt      # Stores WiFi credentials
-│   ├── ip.txt            # Stores WebSocket server IP
 │── platformio.ini        # PlatformIO configuration file
 │── README.md             # Documentation
 ```
