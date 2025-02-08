@@ -8,9 +8,7 @@ This project connects an **ESP32 microcontroller** to a **WebSocket server**, en
 
 ✅ Displays received messages on an **SSD1306 OLED screen**  
 
-✅ Reads **WiFi credentials** and **server IP** from a configuration file  
-
-✅ Uses **PlatformIO** for easy development and deployment  
+✅ Uses **PlatformIO** for easy development, package managment and deployment  
 
 ## **Project Structure**  
 
